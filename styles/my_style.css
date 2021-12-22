@@ -1,0 +1,58 @@
+.veg_leaf{
+    list-style-image:url('G:/jquery_eatery/images/leaf.png');
+}
+
+.veg_noleaf{
+    list-style-image:url('');
+}
+
+.meat{
+    color:red;
+}
+
+.fish{
+    color:rgb(10, 6, 221);
+}
+
+.hamburger{
+    color:rgb(252, 195, 9);
+}
+
+.portobello{
+    color:rgb(252, 9, 171);
+}
+
+.tofu{
+    color:rgb(248, 244, 247);
+}
+
+#btnli
+{
+   float:right;
+  
+}
+
+#btnli li
+{
+    float:left;
+   padding:1em;
+}
+
+div .dotted {border-style: groove;}
+
+.row {
+    display: flex; /* equal height of the children */
+  }
+  
+  .col {
+    flex: 1; /* additionally, equal width */
+    
+    padding: 1em;
+    border: solid;
+  }
+
+#slide_me_down {     display: none;background-color: rgb(190, 71, 71); box-shadow: inset 0 0 10px #000000; }
+#slide_me_dow {     display: none;background-color: rgb(187, 69, 69); box-shadow: inset 0 0 10px #000000;}
+
+
+
